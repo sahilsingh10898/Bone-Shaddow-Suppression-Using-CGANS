@@ -35,6 +35,7 @@ Dependencies
 The project requires the following libraries:
 
 TensorFlow
+Keras
 NumPy
 OpenCV (for image processing)
 Matplotlib (for visualizing results)
